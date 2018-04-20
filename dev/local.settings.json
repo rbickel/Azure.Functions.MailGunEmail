@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "EMAILQUEUE_CONNECTIONSTRING": "UseDevelopmentStorage=true;",
+    "MailGun:ApiHost": "https://api.mailgun.net/v3/my_domain",
+    "MailGun:ApiKey": "key-123a75e6a412bd645be12348849c2d65"
+  }
+}
